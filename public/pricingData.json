@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "name": "Starter",
+    "price": "$29/month",
+    "description": "For beginners who want access to essential equipment and basic support.",
+    "features": [
+      "Access to gym equipment",
+      "1 personal training session per month",
+      "Free locker access",
+      "Open gym hours only",
+      "Basic fitness assessment",
+      "Access to online workout guides"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pro",
+    "price": "$49/month",
+    "description": "For regular members who want classes and balanced guidance.",
+    "features": [
+      "All Starter features",
+      "Unlimited group fitness classes",
+      "2 personal training sessions per month",
+      "Sauna & steam room access",
+      "Weekly progress tracking",
+      "Access to nutrition tips and meal plans",
+      "Priority support from trainers"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Elite",
+    "price": "$79/month",
+    "description": "For dedicated athletes who want complete support and premium benefits.",
+    "features": [
+      "All Pro features",
+      "Unlimited personal training",
+      "Nutrition & diet consultation",
+      "Priority class booking",
+      "24/7 gym access",
+      "Advanced fitness assessment",
+      "Custom workout program",
+      "VIP locker & towel service",
+      "Access to special workshops & events"
+    ]
+  }
+]
